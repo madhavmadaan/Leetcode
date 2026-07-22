@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madhavmadaan/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/madhavmadaan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/madhavmadaan/Leetcode/tree/master/0039-combination-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/madhavmadaan/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/madhavmadaan/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/madhavmadaan/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
