@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/madhavmadaan/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/madhavmadaan/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/madhavmadaan/Leetcode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
