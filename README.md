@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavmadaan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/madhavmadaan/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhavmadaan/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/madhavmadaan/Leetcode/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavmadaan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/madhavmadaan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavmadaan/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/madhavmadaan/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavmadaan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/madhavmadaan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavmadaan/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/madhavmadaan/Leetcode/tree/master/0206-reverse-linked-list) |
