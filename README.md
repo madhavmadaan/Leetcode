@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/madhavmadaan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/madhavmadaan/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/madhavmadaan/Leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhavmadaan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/madhavmadaan/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2596-check-knight-tour-configuration](https://github.com/madhavmadaan/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhavmadaan/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhavmadaan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/madhavmadaan/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/madhavmadaan/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
@@ -124,9 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhavmadaan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/madhavmadaan/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madhavmadaan/Leetcode/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhavmadaan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
