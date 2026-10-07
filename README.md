@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhavmadaan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/madhavmadaan/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhavmadaan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/madhavmadaan/Leetcode/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/madhavmadaan/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhavmadaan/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/madhavmadaan/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/madhavmadaan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/madhavmadaan/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
